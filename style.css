@@ -1,0 +1,448 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.menu{
+    background-color: black;
+    color: white;   
+    padding: 12px 12px; 
+
+}
+.menu:hover{
+    color: black;
+    background-color: white;
+}
+.navbar li a{
+    font-size: 13px;
+    font-weight: 600;
+    color: white;
+}
+.navbar li a:hover{
+    color: #feac00 !important;
+    background-color: transparent !important;
+}
+.button{
+    padding-top: 0px !important;
+    width: 30% !important;
+    margin: auto !important;
+}
+.nav-btn{
+    margin: 0px 10px !important;
+}
+.btn-contact{
+    background-color: transparent;
+margin: 0px 10px;
+border: 2px solid white !important;
+border-radius: 4px !important;
+color: white;
+}
+.btn-contact a{
+    padding: 0px 15px;
+    text-decoration: none;
+    color: white;
+}
+.btn-contact:hover{
+    background-color: #feac00;
+    border:2px solid #feac00 !important;
+    border-radius: 4px;
+    color: black !important;
+}
+.btn-contact a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.active{
+    color: #feac00 !important;
+}
+.navbar-brand {
+    font-size: 35px !important;
+    color: white !important;
+}
+.carousel-relative{
+    position: relative;
+}
+.overlay{
+    width: 80%;
+    margin: auto;
+    border-bottom: 1px solid #c1bcbc !important;
+    background-color: transparent !important;
+}
+.navbar-absolute{
+    position: absolute;
+    background-color: #00000099;
+    top: 0px;
+    right:0px;
+    left: 0px;
+}
+.container-fluid{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.heading{
+    
+    color: white;
+    font-size: 55px; 
+    font-weight: 700;
+    padding-top: 150px;
+    letter-spacing: 3px;
+}
+.btn-yellow{
+background-color: #feac00;
+margin: 0px 10px;
+border: 2px solid #feac00 !important;
+border-radius: 4px !important;
+color: black;
+}
+.btn-yellow a{
+    padding: 0px 15px;
+    text-decoration: none;
+    color: black;
+}
+.btn-yellow a:hover{
+    text-decoration: none;
+    color: black;
+}
+.btn-transparent{
+    border: 2px solid white !important;
+    background-color: transparent;
+    margin: 0px 10px;
+}
+.btn-transparent a{
+    padding: 0px 10px;
+    text-decoration: none;
+    text-align: left !important;
+    color: white;
+}
+.btn-transparent a:hover{
+    text-decoration: none;
+    color: black;
+}
+.numbers{
+    color: white;
+    padding-bottom: 67px;
+}
+.no{
+    font-weight: 700;
+    font-size: 25px;
+    margin: 0px 18px;
+}
+.tex{
+    font-size: 18px;
+    margin-right: 10px;
+}
+.design{
+    margin: 75px auto;
+    line-height: 28px;
+}
+.design-btn{
+    background-color: #feac00;
+    margin: 10px 10px;
+    border: 2px solid #feac00 !important;
+    border-radius: 3px !important;
+}
+.design-btn a{
+    padding: 0px 25px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px ;
+}
+.design-btn a:hover{
+    text-decoration: none;
+    color: black;
+}
+.yellow{
+    color: #feac00;
+}
+.design h1{
+    font-size: 45px ;
+    font-weight: bolder ;
+    margin-bottom: 15px;
+}
+.design p{
+    font-size:18px;
+    font-weight: 300;
+}
+.agencies h3{
+    font-weight: 600; 
+    font-size: 27px; 
+    margin-bottom: 25px;
+    line-height: 35px;
+}
+.agencies p{
+    font-size: 16px;
+    line-height: 25px;
+}
+.text-yellow{
+    color: #feac00;
+}
+.btn-agencies{
+    background-color: #feac00;
+    margin: 10px 0px;
+    border: 2px solid #feac00 !important;
+    border-radius: 3px !important;
+    
+}
+.btn-agencies a:hover{
+    text-decoration: none;
+    color: black;
+}
+.btn-agencies a{
+    padding: 20px 25px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px ;
+}
+.service{
+    padding: 50px;
+    border-bottom: 1px solid #d4cccc;
+}
+.agent{
+    padding-bottom: 50px;
+}
+.grid h4{
+    font-weight: 400;
+    font-size: 24px;
+}
+.fa-2x{
+    color: white;
+    margin-top: 35px;
+}
+.provide-grid{
+    margin: 25px auto !important;
+}
+.grid a{
+    color: black;
+}
+.grid p{
+    line-height: 25px;
+    font-size: 15px;
+}
+.bg-color{
+    background-color: #eef0f1;
+    padding: 50px 0px;
+}
+.provide-img{
+    background-image: url("images/banner4.jpg");
+}
+.provide-pad{
+    padding: 100px 0px !important;
+}
+.provide-img h2{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    color: white;
+}
+.pad{
+    background-color: #00000099;
+}
+.para-white p{
+    line-height: 28px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+    color: white;
+}
+.provide-grid p{
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.overlay{
+    background-color: black;
+}
+.row{
+    padding: 50px 0px;
+}
+.grid-row{
+    margin-top: 50px;
+}
+.provide-grid a,.provide-grid p{
+    color: white;
+}
+.provide-grid a:hover{
+    text-decoration: none;
+    color: #feac00;
+}
+.projects h2{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    margin-left: 10px;
+}
+.projects{
+    margin: 50px 0px;
+}
+.project-card{
+    margin: 10px 0px;
+}
+.project-card img{
+    border: 5px solid lightgrey;
+}
+.project-info h4{
+    font-size: 15px;
+    font-weight: 800;
+}
+.project-info{
+    padding: 5px 15px;
+}
+.project-info h5{
+    font-size: 14px;
+    color: grey;
+    font-weight: 700;
+}
+.project-info:hover{
+    background-color:  #212529;
+    color: white;
+}
+.blog-post h3{
+    font-weight: 700;
+    font-size: 35px;
+    margin: 50px auto;
+}
+.blog-text{
+    background: #feac00;
+    height: 210px; 
+    padding: 25px 40px; 
+}
+.blog-text h3{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.blog-img{
+    height: 210px;
+    padding: 0px!important;
+}
+.appointment h3{
+   font-weight: 600;
+   font-size: 25px;
+   padding-top: 25px;
+}
+.appointment p{
+    line-height: 25px;
+    font-size: 16px;
+}
+.appointment-bg{
+    background-color: #f7f7f7;
+}
+.form{
+    color: gray;
+    font-weight: 100 !important;
+    font-size: 12px !important;letter-spacing: 2px;
+}
+.appointment-form {
+    background-color: white;
+    padding:25px  75px !important;
+}
+.appointment-form button{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.appointment-cont{
+    margin: 50px 0px;
+}
+.testimonial h1{
+    color: white;
+    font-weight: 800 ;
+    font-size: 40px;
+}
+.testimonial P{
+    line-height: 25px;
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 15px;
+}
+.testimonial-card{
+    background-color: white;
+    padding: 40px !important;
+    margin: 45px;
+}    
+.testimonial {
+    background-image: url("images/banner3.jpg");
+}
+.subscribe{
+    margin-top: 10px;
+}
+.subscribe button{
+    background-color: #feac00;
+    color: black;
+    padding: 10px 60px;
+}
+.form-control{
+    padding: 21px 12px !important;
+}
+.email{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.news{
+    margin: 50px auto;
+}
+.news h2{
+    font-size: 35px;
+    font-weight: 800px
+}
+.news h3{
+    font-size: 27px;
+}
+footer{
+    background-color: #212529;
+}
+footer h3{
+    color: white;
+    margin-bottom: 20px;
+}
+footer p{
+    line-height: 34px;
+    font-size: 18px;
+}
+footer h4{
+    font-weight:600; 
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+.links h4{
+     color: white;
+}
+.links li{
+    list-style-type: none;
+    font-size: 16px;
+    line-height: 34px; 
+}
+.links ul{
+    padding-left: 0px;
+}
+.links2{
+    padding-top: 50px !important;
+}
+
+.links{
+    padding: 10px
+}
+.contact{
+    padding: 10px
+}
+.contact h4{
+    color: white;
+    
+}
+.contact li{
+    list-style-type: none;
+    font-size: 16px;
+    line-height: 30px; 
+}
+.contact ul{
+    padding-left: 0px;
+}
+.copywrite p{
+    color: white;
+    font-size: 15px;
+    font-weight: 100 !important;
+}
+#icon{
+    margin: 0px 7px;
+}
+iframe{
+    width: 70%;
+    margin: auto;
+}

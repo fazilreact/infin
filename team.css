@@ -1,0 +1,164 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.bg-img{
+    background-image: url("images/banner1.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.menu{
+    background-color: black;
+    color: white;   
+    padding: 12px 12px; 
+
+}
+.overlay{
+    width: 100% !important;
+    margin: 0px !important;
+    background-color: #000000a1;
+}
+.breadcrumb{
+    background-color: transparent !important;
+    border-radius: 0px !important;
+}
+.breadcrumb a{
+    color: white ;
+    font-size: 13px;
+    font-weight: 600;
+    
+}
+.navbar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid grey !important;
+}
+.menu:hover{
+    color: black;
+    background-color: white;
+}
+.navbar li a{
+    font-size: 13px;
+    font-weight: 600;
+    color: white;
+}
+.navbar li a:hover{
+    color: #feac00 !important;
+    background-color: transparent !important;
+}
+.button{
+    padding-top: 0px !important;
+    width: 30% !important;
+    margin: auto !important;
+}
+.nav-btn{
+    margin: 0px 10px !important;
+}
+.active{
+    color: #feac00 !important;
+}
+.navbar-brand {
+    font-size: 35px !important;
+    color: white !important;
+}
+.container-fluid{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.head{
+    font-size: 16px;
+    margin-bottom: 0px !important;
+    margin-top: 15px;
+}
+.row{
+    padding: 50px 0px;
+}   
+.team-img{
+    margin: 50px;
+}
+.team-img p{
+    font-size: 15px;
+    line-height: 25px;
+}
+.team-img h4{
+    margin-top: 0px !important;
+    font-size: 21px;
+    font-weight: 600;
+}
+.team-img h2{
+    font-size: 40px;
+    font-weight: 700;
+    margin: 50px auto;
+}
+.team-img a{
+    text-decoration: none;
+    color: black;
+}
+.team-img a:hover{
+    color: #c0bbbb;
+    text-decoration: none;
+}
+.team-img img:hover{
+    color: #c0bbbb;
+    background-color: #c0bbbb;
+}
+footer{
+    background-color: #212529;
+}
+footer h3{
+    color: white;
+    margin-bottom: 20px;
+}
+footer p{
+    line-height: 34px;
+    font-size: 17px;
+}
+footer h4{
+    font-weight:600; 
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+.links h4{
+     color: white;
+}
+.links li{
+    list-style-type: none;
+    font-size: 16px;
+    line-height: 34px; 
+}
+.links ul{
+    padding-left: 0px;
+}
+.links2{
+    padding-top: 50px !important;
+}
+.links{
+    padding: 10px
+}
+.contact{
+    padding: 10px
+}
+.contact h4{
+    color: white;
+    
+}
+.contact li{
+    list-style-type: none;
+    font-size: 16px;
+    line-height: 30px; 
+}
+.contact ul{
+    padding-left: 0px;
+}
+.copywrite p{
+    color: white;
+    font-size: 17px;
+    font-weight: 100 !important;
+}
+.yellow{
+    color: #feac00;
+}
+#icon{
+    margin: 0px 7px;
+}
